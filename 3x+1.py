@@ -1,4 +1,3 @@
-import random
 print("Type any positive integer, then press Enter:")
 list = int (input(""))
 while (list != 1):
